@@ -1,7 +1,7 @@
 # Conversor de Monedas By-Jhase
 
 <p align="center">
-<img src="" alt="Logo" width="200"/>
+<img src="imagen.jpg" alt="Logo" width="850" height="400"/>
 </p>
 
 ## Descripción
