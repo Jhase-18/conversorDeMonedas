@@ -1,3 +1,25 @@
 
 B
 src/Principal.java,e\6\e63c5d461036faa917f57dddca2fba9ea2257279
+@
+src/Monedas.java,8\2\825523639d3e4d00068a654833f328504d1e1d7b
+H
+src/ConsultarMoneda.java,a\9\a9f6e4de11ceed2eb2c225564e7f258fea3345c0
+H
+src/ConvertirModena.java,d\c\dcab1a6d3532e8b6ec3a1e56774a5a8249d2a43b
+H
+src/ConvertirMoneda.java,9\e\9ec0ed8a0079f2bf266ce36ecfe4e308a69a9e12
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+Å
+Q.idea/sonarlint/securityhotspotstore/9/e/9ec0ed8a0079f2bf266ce36ecfe4e308a69a9e12,d\7\d77df865c0db6d4ae1cd22c7b7bb45470d7a4c01
+F
+conversorDeMonedas.iml,2\f\2f540ed759d85ed3bb8938027b4a986cddd55a4a
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
+Å
+Q.idea/sonarlint/securityhotspotstore/d/c/dcab1a6d3532e8b6ec3a1e56774a5a8249d2a43b,4\a\4aeddecc2e1bc545a6731e06d0dccc351b99b353
+Å
+Q.idea/sonarlint/securityhotspotstore/a/9/a9f6e4de11ceed2eb2c225564e7f258fea3345c0,7\3\73f456757c466aee57de7fa6a27ac5decd801848
+Å
+Q.idea/sonarlint/securityhotspotstore/8/2/825523639d3e4d00068a654833f328504d1e1d7b,8\0\80c480373af78d8a43ee92d33dc976f07ac60277
