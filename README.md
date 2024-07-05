@@ -1,7 +1,7 @@
 # Conversor de Monedas By-Jhase
 
 <p align="center">
-<img src="[/imagen.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.colombia.com%2Fcambio-moneda%2F&psig=AOvVaw22GmWIZ7hw46sHWJuqUBAZ&ust=1720240047949000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJCO9uaHj4cDFQAAAAAdAAAAABAE)" alt="Logo" width="200"/>
+<img src="" alt="Logo" width="200"/>
 </p>
 
 ## Descripción
